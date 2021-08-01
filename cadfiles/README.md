@@ -3,7 +3,7 @@ Cadfiles for LibreSolarBox V2 mobile powerbank
 
 
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/cadfiles/images/UPKframeNG2e_closeup2.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/cadfiles/images/UPKframeNG2e_closeup2.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/cadfiles/images/UPKframeNG2e_closeup2.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/cadfiles/images/UPKframeNG2e_closeup2.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
 

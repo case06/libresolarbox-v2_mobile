@@ -1,9 +1,9 @@
-# libresolarbox_v2_mobile electronics
+# libresolarbox-v2_mobile electronics
 Electronics for LibreSolarBox V2 mobile powerbank
 
 
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/DSC03025_1024x684.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/DSC03025_1024x684.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/DSC03025_1024x684.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/DSC03025_1024x684.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
 ## Electronics Components:
@@ -31,8 +31,8 @@ As a reference we relay here to some OpenHardware pcb-versions which were develo
 
 https://github.com/LibreSolar/mppt-2420-lc
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/MPPT_charger_20A_rendered.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/MPPT_charger_20A_rendered.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/mppt-2420-lc.05ead745.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/mppt-2420-lc.05ead745.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/MPPT_charger_20A_rendered.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/MPPT_charger_20A_rendered.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/mppt-2420-lc.05ead745.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/mppt-2420-lc.05ead745.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
 
@@ -40,7 +40,7 @@ https://github.com/LibreSolar/mppt-2420-lc
 
 https://github.com/LibreSolar/bms-8s50-ic
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/bms-8s50-ic.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/bms-8s50-ic.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/bms-8s50-ic.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/bms-8s50-ic.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 <p><a href="" target="_blank"><img src="" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
@@ -49,8 +49,8 @@ https://github.com/LibreSolar/bms-8s50-ic
 
 https://github.com/LibreSolar/rpi-can
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/CAN_RPi-ZeroW.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/CAN_RPi-ZeroW.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/P7080159.JPG" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/electronics/images/P7080159.JPG" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/CAN_RPi-ZeroW.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/CAN_RPi-ZeroW.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/P7080159.JPG" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/electronics/images/P7080159.JPG" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
 All other parts are standard-parts from regular sources.
