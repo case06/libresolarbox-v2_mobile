@@ -2,9 +2,9 @@
 LibreSolarBox V2 mobile powerbank
 
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/doc/images/UPKframeNG2j.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/doc/images/UPKframeNG2j.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/doc/images/UPKframeNG2j.png" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/doc/images/UPKframeNG2j.png" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
-<p><a href="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/doc/images/Boxv2-768x1024.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox_v2_mobile/main/doc/images/Boxv2-768x1024.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/doc/images/Boxv2-768x1024.jpg" target="_blank"><img src="https://raw.githubusercontent.com/case06/libresolarbox-v2_mobile/main/doc/images/Boxv2-768x1024.jpg" alt="LibreSolarBox V2 mobile powerbank" style="max-width:100%;"></a></p>
 
 
 Projektpage(s):
