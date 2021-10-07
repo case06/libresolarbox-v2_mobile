@@ -1,4 +1,4 @@
-# libresolarbox_v2_mobile
+# libresolarbox-v2_mobile
 LibreSolarBox V2 mobile powerbank
 
 
